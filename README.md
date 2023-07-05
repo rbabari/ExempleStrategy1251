@@ -1,5 +1,5 @@
 # ExempleStrategy1251
-
+## Sebastien
 ```mermaid
 classDiagram
 direction BT
